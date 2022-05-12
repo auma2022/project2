@@ -32,7 +32,7 @@
 }
 
 .firstmain {
-  background: url("../imgs/background1.png") no-repeat center fixed;
+  background: url("./imgs/background1.png") no-repeat center fixed;
   background-size: cover;
   height: 1000px;
   width: 100%;
